@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //jobs
+        //job
         Job job1 = new Job();
         job1._jobTitle = "Manager";
         job1._company = "Edgars";
