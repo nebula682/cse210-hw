@@ -36,5 +36,5 @@ public class Product
           this._quantity = quantity;
      }
 
-     //I hope I submiited this the right way. I am don with foundatuion 1, but I am still working on foundation 2, I feel like there are certain things I need to polish to make sure the program works according to specifications. I might have submitted these two projects together, I hope it works if it doesnt  please let me know how to submitt the right way. I did not know how to seperate these two in my visual studio.
+     //I hope I submiited this the right way. I am done with foundatuion 1, but I am still working on foundation 2, I feel like there are certain things I need to polish to make sure the program works according to specifications. I might have submitted these two projects together, I hope it works if it doesnt  please let me know how to submit the right way. I did not know how to seperate these two in my visual studio.
 }
